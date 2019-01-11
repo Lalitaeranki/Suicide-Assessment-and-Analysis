@@ -1,8 +1,8 @@
-# Suicide-Assessment-and-Analysis
+# Suicide-Assessment and Analysis
  
 ## Team Members
 
-- Shahram Alizadeh
+- Shahram Alizadeh 
 - Parno Pgareh
 - Valli Sri Lalita Eranki
 - Chithra Kumar
